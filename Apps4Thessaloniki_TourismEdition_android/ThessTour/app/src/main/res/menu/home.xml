@@ -1,8 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools" tools:context=".Home">
-    <item android:id="@+id/action_gr" android:title="@string/gr"
-        android:orderInCategory="100" app:showAsAction="never" />
-    <item android:id="@+id/action_en" android:title="@string/en"
-        android:orderInCategory="100" app:showAsAction="never" />
-</menu>
